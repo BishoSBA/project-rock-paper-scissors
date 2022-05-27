@@ -5,9 +5,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <script src="myscripts.js"></script>
+    <script src="myscripts.js" defer></script>
 </head>
 <body>
+    <h1> Choose your Weapon! </h1>
+    <div class="options">
+        <button class="choice" value="rock">Rock</button>
+        <button class="choice" value="paper">Paper</button>
+        <button class="choice" value="scissors">Scissors</button>
+    </div>
+    <div class="results">
+        <h2>Player: <span id="playerWinCount"></span></h2>
+        <h2>Computer: <span id="computerWinCount"></span></h2>
+        <h2 class="round-result"></h2>
+    </div>
     
 </body>
 </html>
