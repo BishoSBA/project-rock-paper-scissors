@@ -11,7 +11,6 @@ Simple rock-paper-scissors game
 ## Tools
 * Git / Github - project management
 * VScode - Editor
-* Vanilla Javascript
 
 ## Summary
 
