@@ -2,7 +2,7 @@
 T.O.P foundations project | [Rock-Paper-Scissors](https://bishosba.github.io/rock-paper-scissors/)
 
 
-Simple rock-paper-scissors game
+Simple rock-paper-scissors againts the computer where the first to 5 wins the game.
 
 ## Technologies used
 * HTML
